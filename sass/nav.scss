@@ -1,0 +1,24 @@
+nav {
+    height: 120px;
+    width: 100vw;
+    background-color: #4056A1;
+    color: #FFFFFF;
+    padding: 1.0em;
+    flex-direction: column;
+    display: flex;
+    z-index: 10000;
+    position: sticky;
+    top: 0;
+    line-height: 1;
+}
+nav > span {
+    font-family: 'Bungee', cursive;
+}
+nav > div {
+    text-align: right;
+    float: right;
+}
+#nav-icon {
+    color:red;
+    padding-right: 3em;
+}

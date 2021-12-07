@@ -6,7 +6,6 @@
 html {
   box-sizing: border-box;
 }
-
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -14,22 +13,23 @@ html {
 /*
  * Global layout stuff
  */
+
 body {
   color: #545149;
   background-color: #f4f1ec;
   font-size: 24px;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   background-color: #5aadb8;
-  background-image: url("https://www.transparenttextures.com/patterns/crossword.png");
-}
+background-image: url("https://www.transparenttextures.com/patterns/crossword.png");
 
+}
 nav {
-  font-family: "Bungee", cursive;
+  font-family: 'Bungee', cursive;
 }
 
 main {
   width: 90vw;
   margin-left: auto;
-  margin-right: auto;
-  background-color: #f4f1ec;
+    margin-right: auto;
+    background-color: #f4f1ec;
 }
