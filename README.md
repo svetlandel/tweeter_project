@@ -2,12 +2,13 @@
 
 Tweeter is a simple, single-page Twitter clone.
 
-This is the project for learning assignment. The application shows existing tweets, the new tweets can be added. The form accepts tweets between 1 and 140 character in length.
-If the tweet doesn't meet the length requirement, the corresponding form validation error will show up for the user.
-The newly sublitted tweets will show up within the same page.
-
+The application shows existing tweets, the new tweets can also be added. 
 !["Screenshot of tweets"](https://github.com/svetlandel/tweeter_project/blob/master/docs/app_scr1.PNG)
+
 !["Screenshot of the new tweet"](https://github.com/svetlandel/tweeter_project/blob/master/docs/writing_a_tweet.PNG)
+The form to compose tweets accepts tweets between 1 and 140 characters in length.
+If a tweet doesn't meet the length requirement, the corresponding form validation error will show up for the user.
+The newly sublitted tweets will show up within the same page.
 !["Screenshot of the form validation error"](https://github.com/svetlandel/tweeter_project/blob/master/docs/exceeded_limit.PNG)
 
 ## Getting Started
