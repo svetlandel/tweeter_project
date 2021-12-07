@@ -2,7 +2,13 @@
 
 Tweeter is a simple, single-page Twitter clone.
 
-This repository is the starter code for the project: Students will fork and clone this repository, then build upon it to practice their HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express back-end skills.
+This is the project for learning assignment. The application shows existing tweets, the new tweets can be added. The form accepts tweets between 1 and 140 character in length.
+If the tweet doesn't meet the length requirement, the corresponding form validation error will show up for the user.
+The newly sublitted tweets will show up within the same page.
+
+!["Screenshot of tweets"](https://github.com/svetlandel/tweeter_project/blob/master/docs/app_scr1.PNG)
+!["Screenshot of the new tweet"](https://github.com/svetlandel/tweeter_project/blob/master/docs/writing_a_tweet.PNG)
+!["Screenshot of the form validation error"](https://github.com/svetlandel/tweeter_project/blob/master/docs/exceeded_limit.PNG)
 
 ## Getting Started
 
